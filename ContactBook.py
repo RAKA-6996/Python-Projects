@@ -1,6 +1,8 @@
 # CONTACT BOOK 
 # BEST PROJECT TILL NOW
 
+print('Hellow World')
+
 import os
 os.chdir("C:/Users/malay/.spyder-py3")  # Changes the current directory to mentioned one.
 
