@@ -33,6 +33,8 @@ for i in choices:
         
 if computer_points > user_points:
     print("You Lose The Game!")
+elif computer_points == user_points:
+    print("TIE! Nobody Wins.")
 else:
     print("You Won The Game!")
     
