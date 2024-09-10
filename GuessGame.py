@@ -6,7 +6,7 @@ if low low
 if high high'''
 
 import random
-print('Welcome to Guess Game\n')
+print('Welcome to Guessss Game\n')
 
 random_number = random.randint(0, 100)
 
