@@ -1,0 +1,44 @@
+NOTE THAT THIS DESIGNS ARE ONLY FOR SHOWCASING AND CAN BE PRINTED IN YOUR WAYS!!
+
+1. Pyramid
+      *
+     ***
+    *****
+
+2. Inverted Pyramid
+    *****
+     ***
+      *
+
+3.  Diamond
+      *
+     ***
+    *****
+     ***
+      *
+
+4. Right Angled Triangle
+   *
+   ***
+   *****
+   *******
+
+5. Hour-glass shape
+   *****
+   ****
+   ***
+   **
+   *
+   **
+   ***
+   ****
+   *****
+
+6. Hollow Diamond
+      *
+     * *
+    *   *
+   *     *
+    *   *
+     * *
+      *
